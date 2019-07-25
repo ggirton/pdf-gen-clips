@@ -1,0 +1,2 @@
+#!/bin/bash
+"/System/Library/Automator/Combine PDF Pages.action/Contents/Resources/join.py" -o rpt_sub_all.pdf  rpt/open-page-rpt-all.pdf rpt/SCBZL06.pdf rpt/SCBZL02.pdf rpt/SCCYL03.pdf rpt/SCBZL04.pdf rpt/SCBZL05.pdf rpt/mid-page-rpt-all.pdf rpt/SCCYP01.pdf rpt/SCTRP01.pdf rpt/SCTRP02.pdf rpt/SCTRP03.pdf rpt/SC00P01.pdf rpt/SC10P01.pdf rpt/SCPYP01.pdf 
